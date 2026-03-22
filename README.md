@@ -5,7 +5,6 @@
 PaperPilot is a web-based AI-powered research assistant designed to help students and researchers extract meaningful insights from lengthy research papers.
 
 By leveraging **Retrieval-Augmented Generation (RAG)**, the system provides:
-
 * Context-aware answers
 * Concise summaries
 * Structured notes
