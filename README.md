@@ -40,7 +40,7 @@ All outputs are generated directly from uploaded PDF documents, ensuring accurac
 
 ##  System Architecture
 
-![System Architecture](PaperPilot System Architecture.jpg)
+![System Architecture](PaperPilot_System_Architecture.jpg)
 
 ---
 
