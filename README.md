@@ -47,6 +47,7 @@ All outputs are generated directly from uploaded PDF documents, ensuring accurac
 
 * **Harish Kumar**
 * **Kalpana Bhardwaj**
+* **Prakriti**
 * **Vansh**
 
 
