@@ -37,12 +37,6 @@ All outputs are generated directly from uploaded PDF documents, ensuring accurac
 
 ---
 
-##  System Architecture
-
-![System Architecture](PaperPilot_System_Architecture.jpg)
-
----
-
 ## 👥 Team Members (Team-1)
 
 * **Harish Kumar**
